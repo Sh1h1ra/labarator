@@ -15,5 +15,6 @@
 <body>
 	Лазерев Данила
 <p><input type="button" class="b1" value="КнопкА"></p>
+<p><input type="button" class"b1" value="Вход через ВК"></p>
 </body>
 </html>
